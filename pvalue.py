@@ -15,3 +15,8 @@ alpha = 0.01
 
 p = (1 - t.cdf(abs(t_stat), df)) * 2 
 print(p)
+
+#blabla
+#blabla
+
+#
